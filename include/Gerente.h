@@ -4,7 +4,7 @@
 
 class Gerente : public Persona
 {
-    public:
+        public:
         Gerente(int d, int m, int a);
         void print();
         ~Gerente();

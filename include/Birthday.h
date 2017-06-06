@@ -4,11 +4,11 @@
 
 class Birthday
 {
-    public:
+    private:
         int dia;
         int mes;
         int anio;
-
+    public:
         Birthday();
         Birthday(int d, int m, int a);
         ~Birthday();

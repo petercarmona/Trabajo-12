@@ -4,7 +4,7 @@
 
 class Conserge : public Persona
 {
-    public:
+        public::
         Conserge(int d, int m, int a);
         void print();
         ~Conserge();

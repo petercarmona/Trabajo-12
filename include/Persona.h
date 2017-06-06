@@ -7,9 +7,9 @@ using namespace std;
 
 class Persona
 {
-    public:
+    private:
         Birthday *b;
-
+    public:
         Persona();
         virtual void print();
         ~Persona();
